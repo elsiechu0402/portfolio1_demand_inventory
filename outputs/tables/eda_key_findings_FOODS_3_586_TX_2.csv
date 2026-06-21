@@ -1,0 +1,17 @@
+finding,value
+Total number of daily observations,1941
+Average daily demand,100.53
+Median daily demand,97.0
+Demand standard deviation,30.82
+Minimum daily demand,0
+Maximum daily demand,237
+Zero-demand days,8
+Zero-demand rate,0.0041
+Highest average-demand weekday,Saturday (127.72)
+Lowest average-demand weekday,Tuesday (84.09)
+Highest average-demand month,8 (124.75)
+Lowest average-demand month,1 (81.25)
+Average demand at lowest price level,1.48 (107.70)
+Average demand at highest price level,1.68 (92.05)
+Highest average-demand year,2012 (112.52)
+Lowest average-demand year,2016 (81.64)

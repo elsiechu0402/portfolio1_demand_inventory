@@ -1,0 +1,2 @@
+model,forecast_horizon_days,forecast_value,MAE,RMSE,MAPE_percent
+Naive forecast,56,100,24.017857142857142,27.959473222096708,36.776469378795646

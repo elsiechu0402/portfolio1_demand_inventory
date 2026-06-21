@@ -1,0 +1,2 @@
+policy,safety_stock_units,holding_cost_per_unit_per_day,stockout_cost_per_unit,total_demand,total_order_quantity,total_fulfilled_demand,total_lost_sales,service_level,average_ending_inventory,total_holding_cost,total_stockout_cost,total_cost
+Forecast-based order-up-to policy without safety stock,0,1.0,5.0,4413,4128,4128,285,0.9354180829367778,4.642857142857143,260.0,1425.0,1685.0

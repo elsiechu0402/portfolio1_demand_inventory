@@ -1,0 +1,10 @@
+item,relative_path,upload_to_github,purpose,exists_locally
+README.md,README.md,True,Repository homepage and project overview,True
+requirements.txt,requirements.txt,True,Python package dependencies,True
+docs/index.md,docs/index.md,True,GitHub Pages final report,True
+docs/assets/figures/,docs/assets/figures,True,Figures used in final report webpage,True
+notebooks/,notebooks,True,Reproducible analysis notebooks,True
+outputs/,outputs,True,Final tables and figures,True
+report/,report,True,Project summary and environment notes,True
+data/processed/,data/processed,True,Small processed dataset for reproducibility,True
+data/raw/,data/raw,False,Raw Kaggle files are too large for GitHub,True

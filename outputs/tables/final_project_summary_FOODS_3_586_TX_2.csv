@@ -1,0 +1,15 @@
+section,metric,value
+Project scope,Selected item-store,FOODS_3_586 at TX_2
+Project scope,Forecast horizon,56 days
+Forecasting,Best forecasting model,Calendar-feature linear regression forecast
+Forecasting,Best model MAE,9.84
+Forecasting,Best model RMSE,12.45
+Forecasting,Best model MAPE (%),13.45
+Forecasting,MAE reduction from naive baseline (%),59.05
+Inventory policy,Recommended safety stock units,15
+Inventory policy,Base policy total cost,1685.0
+Inventory policy,Optimal policy total cost,953.0
+Inventory policy,Total cost reduction,732.0
+Inventory policy,Total cost reduction percent,43.44
+Inventory policy,Service level improvement,0.0594
+Inventory policy,Lost sales reduction,262

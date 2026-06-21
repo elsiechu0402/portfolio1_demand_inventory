@@ -1,0 +1,30 @@
+# Raw data files should not be uploaded to GitHub
+data/raw/
+
+# Compressed data files
+*.zip
+*.tar
+*.tar.gz
+*.gz
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# macOS system files
+.DS_Store
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Environment variables
+.env
+
+# Large temporary files
+*.tmp
+*.log

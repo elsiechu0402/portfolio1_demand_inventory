@@ -1,0 +1,13 @@
+recommendation_metric,value
+Recommended safety stock units,15.0
+Base policy total cost,1685.0
+Optimal policy total cost,953.0
+Total cost reduction,732.0
+Total cost reduction percent,43.44
+Base policy service level,0.9354
+Optimal policy service level,0.9948
+Service level improvement,0.0594
+Lost sales reduction,262.0
+Stockout days reduction,25.0
+Holding cost increase,578.0
+Stockout cost reduction,1310.0
