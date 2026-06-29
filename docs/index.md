@@ -1,5 +1,7 @@
 # Demand Forecasting and Inventory Policy Simulation
 
+**[Download the final report (PDF)](final_report.pdf)**
+
 ## 1. Introduction
 
 Demand uncertainty in supply chains can lead to excess inventory or stockouts. This project focuses on a practical operations problem: how to connect analytical results with inventory, logistics, and warehouse decisions. In this project, I connect demand forecasting with inventory replenishment decisions for a retail product-store combination. Using the M5 Forecasting dataset, I analyze the future demand of a high-demand product-store combination and compare different inventory simulation strategies to see which strategy can reduce the stockout rate and total inventory cost.
@@ -151,3 +153,12 @@ This project shows a complete operations analytics workflow that connects demand
 Among the forecasting models, the **calendar-feature linear regression model** was the best model and had more accurate metrics, with an MAE of 9.84, RMSE of 12.45, and MAPE of 13.45%. This shows that, compared with simple baseline methods, including weekday effects, monthly patterns, time trend, and selling price can improve the accuracy of short-term demand forecasting.
 With further inventory simulation analysis, the results show that forecast accuracy can effectively support operational decision-making. Based on the forecast-based order-up-to policy, this project tested different safety stock levels to evaluate the trade-off between stockout risk and inventory holding cost. A safety stock level of **15 units** achieved the lowest total cost among the tested policies. Compared with the base policy without safety stock, it reduced total cost from 1685 to 953, corresponding to a 43.44% cost reduction. It also improved service level from 0.9354 to 0.9948 and reduced lost sales by 262 units.
 Overall, the project shows that demand forecasting becomes more valuable when it is connected to downstream inventory decisions. The recommended policy does not simply maximize service level or eliminate all stockouts. Instead, it balances cost efficiency and service reliability by reducing stockout cost while keeping holding cost at a manageable level. This demonstrates how data-driven forecasting and inventory simulation can be combined to support practical replenishment decisions under demand uncertainty.
+
+## Tools
+
+- **Programming language:** Python
+- **Data processing:** pandas, NumPy
+- **Forecasting and evaluation:** scikit-learn
+- **Visualization:** matplotlib
+- **Development environment:** Jupyter Notebook
+- **Report publishing:** GitHub Pages, Pandoc
