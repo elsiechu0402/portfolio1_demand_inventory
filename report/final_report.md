@@ -136,13 +136,16 @@ By comparing the forecast metrics of different forecasting models, I found that 
 ## 7. Limitations
 
 Firstly, this project focuses on an identified item-store combination using the official M5 Forecasting - Accuracy competition dataset. Therefore, the results should be regarded as a case study rather than a universal inventory policy for all products or stores.
+
 Secondly, the inventory simulation uses simplified assumptions:
+
 * Daily replenishment
 * Replenishment arrives before daily demand occurs
 * Fixed holding cost
 * Fixed stockout cost
 * No supplier lead time uncertainty
 * Lack of practical ordering constraints
+  
 Lastly, there are limitations in the forecasting methods. During the forecasting phase, although this project compared several benchmark models with the calendar-feature linear regression model, more advanced forecasting approaches were not adopted, such as tree-based models, gradient boosting, or hierarchical forecasting.
 
 ## 8. Conclusion
