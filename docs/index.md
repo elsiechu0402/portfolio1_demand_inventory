@@ -88,7 +88,7 @@ title: Demand Forecasting and Inventory Policy Simulation
 
 ## 1. Introduction
 
-Demand uncertainty in supply chains can lead to excess inventory or stockouts. This project focuses on a practical operations problem: how to connect analytical results with inventory, logistics, and warehouse decisions. In this project, I connect demand forecasting with inventory replenishment decisions for a retail product-store combination. Using the M5 Forecasting dataset, I analyze the future demand of a high-demand product-store combination and compare different inventory simulation strategies to see which strategy can reduce the stockout rate and total inventory cost.
+Demand uncertainty in supply chains can lead to excess inventory or stockouts. This project focuses on a practical operations problem: how to connect analytical results with inventory, logistics, and warehouse decisions. In this project, I connect demand forecasting with inventory replenishment decisions for a retail product-store combination. Using the [M5 Forecasting dataset](https://www.kaggle.com/c/m5-forecasting-accuracy), I analyze the future demand of a high-demand product-store combination and compare different inventory simulation strategies to see which strategy can reduce the stockout rate and total inventory cost.
 
 ## 2. Research Question
 
