@@ -1,6 +1,90 @@
-# Demand Forecasting and Inventory Policy Simulation
+---
+layout: null
+title: Demand Forecasting and Inventory Policy Simulation
+---
 
-**[Download the final report (PDF)](final_report.pdf)**
+<style>
+  body {
+    max-width: 980px;
+    margin: 0 auto;
+    padding: 32px 20px;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Arial, sans-serif;
+    line-height: 1.6;
+    color: #24292f;
+    background: #ffffff;
+  }
+
+  a {
+    color: #0969da;
+  }
+
+  h1, h2, h3 {
+    line-height: 1.25;
+  }
+
+  .portfolio-title {
+    margin-top: 1.2rem;
+    margin-bottom: 0.4rem;
+  }
+
+  .portfolio-subtitle {
+    color: #5f6368;
+    font-size: 1.05rem;
+    margin-bottom: 1.1rem;
+  }
+
+  .portfolio-nav {
+    position: sticky;
+    top: 0;
+    z-index: 5;
+    background: #ffffff;
+    border: 1px solid #e5e7eb;
+    border-radius: 10px;
+    padding: 10px 12px;
+    margin: 16px 0 22px 0;
+    line-height: 1.9;
+    box-shadow: 0 1px 5px rgba(0,0,0,0.04);
+  }
+
+  .portfolio-nav a {
+    display: inline-block;
+    margin-right: 12px;
+    font-size: 0.92rem;
+    text-decoration: none;
+  }
+
+  img {
+    max-width: 100%;
+    border: 1px solid #e5e7eb;
+    border-radius: 8px;
+    padding: 4px;
+    background: #ffffff;
+  }
+
+  table {
+    width: 100%;
+  }
+</style>
+
+<h1 class="portfolio-title">Demand Forecasting and Inventory Policy Simulation</h1>
+
+<p class="portfolio-subtitle">Portfolio 1: Demand Forecasting and Inventory Policy Simulation | Zhiyi Zhu (Elsie Chu)</p>
+
+<div class="portfolio-nav">
+  <a href="#1-introduction">Introduction</a>
+  <a href="#2-research-question">Research Question</a>
+  <a href="#3-data">Data</a>
+  <a href="#4-methods">Methods</a>
+  <a href="#5-results">Results</a>
+  <a href="#6-discussion">Discussion</a>
+  <a href="#7-limitations">Limitations</a>
+  <a href="#8-conclusion">Conclusion</a>
+  <a href="#tools">Tools</a>
+</div>
+
+<p>
+  <a href="final_report.pdf" target="_blank"><strong>View Full Report PDF</strong></a>
+</p>
 
 ## 1. Introduction
 
