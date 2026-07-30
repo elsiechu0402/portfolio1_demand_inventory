@@ -68,7 +68,7 @@ title: Demand Forecasting and Inventory Policy Simulation
 
 <h1 class="portfolio-title">Demand Forecasting and Inventory Policy Simulation</h1>
 
-<p class="portfolio-subtitle">Portfolio 1: Demand Forecasting and Inventory Policy Simulation | Zhiyi Zhu (Elsie Chu)</p>
+<p class="portfolio-subtitle">Portfolio 1: Demand Forecasting and Inventory Policy Simulation | Zhiyi (Elsie) Zhu</p>
 
 <div class="portfolio-nav">
   <a href="#1-introduction">Introduction</a>
