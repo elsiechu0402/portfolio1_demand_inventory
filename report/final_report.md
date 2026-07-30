@@ -1,6 +1,6 @@
 ---
 title: Demand Forecasting and Inventory Policy Simulation
-author: Zhiyi Zhu (Elsie Chu)
+author: Zhiyi (Elsie) Zhu
 date: ""
 toc: true
 toc-depth: 2
